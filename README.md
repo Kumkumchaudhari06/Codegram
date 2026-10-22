@@ -1,5 +1,5 @@
 # Codegram
-### Intelligent Version Control and Conflict Resolution
+### Lightweight Version Control and Conflict Resolution
 
 Codegram is a C++-based version control project designed to help developers manage code changes, organize branches, track commits, and understand merge conflicts. It aims to make version control easier to learn and use through structured data handling and efficient change management.
 
